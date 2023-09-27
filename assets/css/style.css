@@ -1,0 +1,10 @@
+img{
+    width: 50%;
+}
+
+section{
+    /* Modèle du display */
+    display: grid;
+    /* modèle de colonne */
+    grid-template-columns:repeat(3, 1fr);
+}
